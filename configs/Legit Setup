@@ -1,0 +1,7 @@
+{
+  "title": "Legit Setup",
+  "description": "Smooth settings for matchmaking",
+  "config": {
+    "TestModule.Sensitivity": 1.25f,
+  }
+}
